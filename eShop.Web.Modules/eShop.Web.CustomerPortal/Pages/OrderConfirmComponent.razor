@@ -1,0 +1,68 @@
+﻿@inject IViewOrderConfrimUserCase viewOrderConfirmUserCase
+
+@page "/orderconfirm/{uniqueId}"
+  <div class="container">
+    <h3>Xác nhận đơn hàng</h3>
+           <div class="row">
+
+        <br />
+        @if (order != null)
+        {
+            <p>
+                <b>Thông tin vận chuyển</b>
+            </p>
+            <p>@order.CustomerName</p>
+            <p>@order.CustomerAddress</p>
+            <p>@order.CustomerCity</p>
+            <p>@order.CustomerStateProvince</p>
+            <p>@order.CustomerCountry</p>
+            <br />
+            <OrderSummarryComponent order="order"></OrderSummarryComponent>
+            <br />
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in order.LineItems)
+                    {
+                        <tr>
+                            <td>
+                                @item.Product.Name
+                            </td>
+                            <td>
+                                @item.Quantity
+                            </td>
+                            <td>
+                                @item.Product.Price
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+               </div>
+      </div>
+
+
+
+@code {
+    private Order order;
+
+    [Parameter]
+
+    public  string UniqueId { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+        if(!string.IsNullOrWhiteSpace(UniqueId))
+        {
+            order = viewOrderConfirmUserCase.Execute(UniqueId);
+        }
+    }
+}

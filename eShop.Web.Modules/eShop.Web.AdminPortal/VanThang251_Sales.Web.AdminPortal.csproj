@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <SupportedPlatform Include="browser" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="6.0.31" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.25" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\eShop.CoreBusiness\VanThang251_Sales.CoreBusiness.csproj" />
+    <ProjectReference Include="..\..\eShop.UseCase\VanThang251_Sales.UseCase.csproj" />
+    <ProjectReference Include="..\eShop.Web.Common\VanThang251_Sales.Web.Common.csproj" />
+  </ItemGroup>
+
+</Project>

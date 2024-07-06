@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebBanHang_QuocHuy.UseCase/1.0.0": {
+        "dependencies": {
+          "WebBanHang_QuocHuy.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "WebBanHang_QuocHuy.UseCase.dll": {}
+        }
+      },
+      "WebBanHang_QuocHuy.CoreBusiness/1.0.0": {
+        "runtime": {
+          "WebBanHang_QuocHuy.CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebBanHang_QuocHuy.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebBanHang_QuocHuy.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

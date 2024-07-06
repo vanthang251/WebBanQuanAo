@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|e:\\downloads\\v\u0103n th\u1EAFng_\u0111a c\u1EA5p\\eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web.modules\\eshop.web.common\\wwwroot\\examplejsinterop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7BA08E02-01A9-4204-8260-CC5AEF434D7D}|eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj|solutionrelative:eshop.web.modules\\eshop.web.common\\wwwroot\\examplejsinterop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\component\\bannercomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\component\\bannercomponent.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web.modules\\eshop.web.adminportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672EC59B-79E7-48C6-BBB7-C3906B4C1065}|eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.adminportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web.modules\\eshop.web.customerportal\\pages\\searchproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\searchproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\shared\\topnavbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web.modules\\eshop.web.customerportal\\pages\\viewproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\pages\\viewproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.corebusiness\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A45B8E-E15A-4049-8246-0F235A349028}|eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj|solutionrelative:eshop.corebusiness\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web.modules\\eshop.web.customerportal\\controls\\productitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\controls\\productitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\1056c2079f49f753ba632e2d753d4dbca8389450\\Pages_ViewProductComponent_razor.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\component\\bannercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\component\\bannercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\shared\\footerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\shared\\footerbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56975760-AEEA-44B5-8EE7-D7C4AE02659A}|eShop.Web\\VanThang251_Sales.Web.csproj|solutionrelative:eshop.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eshop.web.modules\\eshop.web.customerportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B616A7-73CE-488B-88D7-691F68433711}|eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj|solutionrelative:eshop.web.modules\\eshop.web.customerportal\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exampleJsInterop.js",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.Common\\wwwroot\\exampleJsInterop.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-06T14:31:58.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "eShop.Web\\Program.cs",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Program.cs",
+              "RelativeToolTip": "eShop.Web\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:31:40.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\MainLayout.razor.css",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "eShop.Web\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T14:31:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.AdminPortal\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:30:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\App.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\App.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\App.razor",
+              "RelativeToolTip": "eShop.Web\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:30:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "eShop.Web\\appsettings.json",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\appsettings.json",
+              "RelativeToolTip": "eShop.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T21:00:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\_Imports.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\_Imports.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\_Imports.razor",
+              "RelativeToolTip": "eShop.Web\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:31:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BannerComponent.css",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Component\\BannerComponent.css",
+              "RelativeDocumentMoniker": "eShop.Web\\Component\\BannerComponent.css",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Component\\BannerComponent.css",
+              "RelativeToolTip": "eShop.Web\\Component\\BannerComponent.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T21:25:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchProductComponent.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\SearchProductComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:12:52.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TopNavBar.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\TopNavBar.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\TopNavBar.razor",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T12:40:14.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewProductComponent.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Pages\\ViewProductComponent.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:09:10.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductItemComponent.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\Controls\\ProductItemComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:08:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.CoreBusiness\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "eShop.CoreBusiness\\Model\\Product.cs",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.CoreBusiness\\Model\\Product.cs",
+              "RelativeToolTip": "eShop.CoreBusiness\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:10:47.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pages_ViewProductComponent_razor.g.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\1056c2079f49f753ba632e2d753d4dbca8389450\\Pages_ViewProductComponent_razor.g.cs",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\Temp\\.vsdbgsrc\\1056c2079f49f753ba632e2d753d4dbca8389450\\Pages_ViewProductComponent_razor.g.cs [Read Only]",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:07:43.244Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FooterBar.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\FooterBar.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\FooterBar.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\FooterBar.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\FooterBar.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T12:24:46.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Shared\\MainLayout.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "eShop.Web\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T22:46:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BannerComponent.razor",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Component\\BannerComponent.razor",
+              "RelativeDocumentMoniker": "eShop.Web\\Component\\BannerComponent.razor",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web\\Component\\BannerComponent.razor",
+              "RelativeToolTip": "eShop.Web\\Component\\BannerComponent.razor",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwKMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T21:26:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "ToolTip": "E:\\DownLoads\\V\u0103n Th\u1EAFng_\u0110a C\u1EA5p\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "RelativeToolTip": "eShop.Web.Modules\\eShop.Web.CustomerPortal\\ExampleJsInterop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:53:55.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

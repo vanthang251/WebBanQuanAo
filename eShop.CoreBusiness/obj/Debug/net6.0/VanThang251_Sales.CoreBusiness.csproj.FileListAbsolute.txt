@@ -1,0 +1,22 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\refint\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.CoreBusiness\obj\Debug\net6.0\ref\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\refint\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.CoreBusiness\obj\Debug\net6.0\ref\VanThang251_Sales.CoreBusiness.dll

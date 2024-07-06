@@ -1,0 +1,34 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang.F4B7C71C.Up2Date
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang.F4B7C71C.Up2Date
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\VanThang251_Sales.DataStore.SQL.Dapper.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\VanThang251_Sales.DataStore.SQL.Dapper.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\VanThang251_Sales.DataStore.SQL.Dapper.dll

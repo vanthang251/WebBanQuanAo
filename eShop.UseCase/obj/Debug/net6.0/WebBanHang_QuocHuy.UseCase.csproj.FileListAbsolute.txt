@@ -1,0 +1,75 @@
+C:\Users\admin\Downloads\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.deps.json
+C:\Users\admin\Downloads\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop.UseCase\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.deps.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.UseCase\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.UseCase.dll

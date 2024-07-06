@@ -1,0 +1,62 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.Common.staticwebassets.runtime.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.staticwebassets.runtime.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.Common.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.Common.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.csproj.AssemblyReference.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.VanThang251_Sales.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.VanThang251_Sales.Web.AdminPortal.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VanThang251_Sales.Web.AdminPortal.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VanThang251_Sales.Web.AdminPortal.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\VanThang251_Sales.Web.AdminPortal.styles.css
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\VanThang251_Sales.Web.AdminPortal.bundle.scp.css
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang.FC5E2C7E.Up2Date
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.Common.staticwebassets.runtime.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.staticwebassets.runtime.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.Common.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\VanThang251_Sales.Web.Common.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.csproj.AssemblyReference.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.VanThang251_Sales.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.VanThang251_Sales.Web.AdminPortal.props
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VanThang251_Sales.Web.AdminPortal.props
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VanThang251_Sales.Web.AdminPortal.props
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\VanThang251_Sales.Web.AdminPortal.styles.css
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\VanThang251_Sales.Web.AdminPortal.bundle.scp.css
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang.FC5E2C7E.Up2Date
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\VanThang251_Sales.Web.AdminPortal.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\VanThang251_Sales.Web.AdminPortal.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\VanThang251_Sales.Web.AdminPortal.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VanThang251_Sales.StateStore.DI/1.0.0": {
+        "dependencies": {
+          "VanThang251_Sales.UseCase": "1.0.0"
+        },
+        "runtime": {
+          "VanThang251_Sales.StateStore.DI.dll": {}
+        }
+      },
+      "VanThang251_Sales.CoreBusiness/1.0.0": {
+        "runtime": {
+          "VanThang251_Sales.CoreBusiness.dll": {}
+        }
+      },
+      "VanThang251_Sales.UseCase/1.0.0": {
+        "dependencies": {
+          "VanThang251_Sales.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "VanThang251_Sales.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VanThang251_Sales.StateStore.DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VanThang251_Sales.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VanThang251_Sales.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

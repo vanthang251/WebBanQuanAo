@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VanThang251_Sales.Web.props" />
+</Project>

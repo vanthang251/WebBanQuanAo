@@ -1,0 +1,33 @@
+﻿
+
+<div class="card m-2 p-2" style="width: 12rem;">
+    
+    <div class="vagetables_section layout_padding">
+    <div class="container">
+    <div class="courses_section_2">
+    <div >
+        <div class="hover01 column">
+            <figure><img src="@product.ImageLink"></figure>
+        </div>
+        <h3 class="harshal_text">
+                        <NavLink href="@($"product/{product.ProductId}")">
+                @product.Name
+            </NavLink>
+        </h3>
+        <h3 class="rate_text">
+            <p class="card-text" style="color: darkred">
+                @product.Price.ToString("c")
+            </p>
+        </h3>
+       
+   
+    </div>
+    </div>
+    </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Product product{ get; set; }
+}

@@ -1,0 +1,360 @@
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.exe
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.deps.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.runtimeconfig.json
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.Web.props
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.Web.props
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.Web.props
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.Web.styles.css
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\WebBanHang_QuocHuy.Web.bundle.scp.css
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.genruntimeconfig.cache
+C:\Users\admin\Downloads\eShop\eShop.Web\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.exe
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.deps.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.runtimeconfig.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.Web.props
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.Web.props
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.Web.props
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.Web.styles.css
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\WebBanHang_QuocHuy.Web.bundle.scp.css
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.Web.dll
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.genruntimeconfig.cache
+C:\Users\admin\Downloads\eShop\eShop\eShop.Web\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\appsettings.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.exe
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.runtimeconfig.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\AutoMapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.Web.styles.css
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\WebBanHang_QuocHuy.Web.bundle.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.genruntimeconfig.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\eShop.Web\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\appsettings.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.exe
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.runtimeconfig.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\AutoMapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.Web.styles.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\WebBanHang_QuocHuy.Web.bundle.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.genruntimeconfig.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\appsettings.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.exe
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.runtimeconfig.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\AutoMapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.AdminPortal.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.CustomerPortal.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\bin\Debug\net6.0\WebBanHang_QuocHuy.Web.Common.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.RazorAssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.Web.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.Web.styles.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\scopedcss\projectbundle\WebBanHang_QuocHuy.Web.bundle.scp.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.Web.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\WebBanHang_QuocHuy.Web.genruntimeconfig.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\eShop.Web\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.Web.dll

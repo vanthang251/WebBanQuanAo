@@ -1,0 +1,85 @@
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.deps.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.deps.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.StateStore.DI.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.StateStore.DI.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\WebBanHang_QuocHuy.StateStore.DI.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.StateStore.DI.dll

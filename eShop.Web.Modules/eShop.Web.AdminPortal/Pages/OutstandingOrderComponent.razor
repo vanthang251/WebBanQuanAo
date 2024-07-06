@@ -1,0 +1,27 @@
+﻿@inject IViewOutStandingOrderUserCase viewOutstandingOrderUserCase
+@page "/outstadingorders"
+@page "/admin"
+
+@attribute [Authorize]
+<div class="container">
+
+    <h3>Đang xử lý đơn hàng </h3>
+    <div>
+
+        <br />
+        <OrderListComponent Orders="orders"></OrderListComponent>
+
+    </div>
+    </div>
+
+
+@code {
+    private IEnumerable<Order> orders;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        orders = viewOutstandingOrderUserCase.Execute();
+    }
+
+}

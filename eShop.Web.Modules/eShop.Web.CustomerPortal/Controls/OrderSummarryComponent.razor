@@ -1,0 +1,72 @@
+﻿@inject NavigationManager navigationManager
+<div class="card m-2" style=" width:25rem;">
+    <div class="card-body">
+        <h5 class="card-title">Tổng đơn hàng</h5>
+        <div class="card-text d-flex justify-content-between">
+            <div>
+                Tổng (@itemsCount):
+            </div>
+            <div>
+                @itemTotalPrice.ToString("c");
+            </div>
+        </div>
+        <div class="card-text d-flex justify-content-between">
+            <div>
+                Vận chuyển và xử lý:
+            </div>
+            <div>
+                <text>$0.00</text>                
+            </div>
+        </div>
+        <div class="card-text d-flex justify-content-between">
+            <div>
+                Thuế:
+            </div>
+            <div>
+                <text>$0.00</text>
+            </div>
+        </div>
+        <hr />
+        <div class="card-text d-flex justify-content-between" style="color: darkred">
+            <div>
+                <b>Tổng đơn hàng:</b>
+            </div>
+            <div>
+                <b>@itemTotalPrice.ToString("c")</b>
+            </div>
+        </div>
+    </div>
+  <div class="col">
+      @if(!HidePlaceOrder)
+        {
+            <button class="button btn-primary" @onclick="PlaceOrder">Đặt hàng của bạn</button>
+        }
+        
+  </div>
+
+</div>
+
+@code {
+    int itemsCount = 0;
+    double itemTotalPrice = 0;
+
+    [Parameter]
+    public Order order{ get; set; }
+    [Parameter]
+    public bool HidePlaceOrder { get; set; } = false;
+
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+        if(order!=null)
+        {
+            itemsCount = order.LineItems.Count;
+            itemTotalPrice = 0;
+            order.LineItems.ForEach(x => itemTotalPrice += x.Price * x.Quantity);
+        }
+    }
+    private void PlaceOrder()
+    {
+        navigationManager.NavigateTo($"/placeOrder");
+    }
+}

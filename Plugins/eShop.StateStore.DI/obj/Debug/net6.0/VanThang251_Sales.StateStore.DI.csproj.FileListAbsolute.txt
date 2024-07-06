@@ -1,0 +1,34 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.StateStore.DI.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.StateStore.DI.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.csproj.AssemblyReference.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang.534D99DF.Up2Date
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.StateStore.DI.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.StateStore.DI.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.csproj.AssemblyReference.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang.534D99DF.Up2Date
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\refint\VanThang251_Sales.StateStore.DI.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\VanThang251_Sales.StateStore.DI.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.StateStore.DI\obj\Debug\net6.0\ref\VanThang251_Sales.StateStore.DI.dll

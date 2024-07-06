@@ -1,0 +1,34 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.csproj.AssemblyReference.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang.9531FF3F.Up2Date
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\refint\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\ref\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.csproj.AssemblyReference.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang.9531FF3F.Up2Date
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\refint\VanThang251_Sales.DataStore.HardCodes.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\VanThang251_Sales.DataStore.HardCodes.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\ref\VanThang251_Sales.DataStore.HardCodes.dll

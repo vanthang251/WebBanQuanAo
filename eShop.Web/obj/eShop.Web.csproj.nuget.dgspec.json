@@ -1,0 +1,680 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web\\eShop.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj",
+        "projectName": "WebBanHang_QuocHuy.CoreBusiness",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj",
+        "projectName": "WebBanHang_QuocHuy.UseCase",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\WebBanHang_QuocHuy.Web.AdminPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\WebBanHang_QuocHuy.Web.AdminPortal.csproj",
+        "projectName": "WebBanHang_QuocHuy.Web.AdminPortal",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\WebBanHang_QuocHuy.Web.AdminPortal.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj",
+        "projectName": "WebBanHang_QuocHuy.Web.Common",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\WebBanHang_QuocHuy.Web.CustomerPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\WebBanHang_QuocHuy.Web.CustomerPortal.csproj",
+        "projectName": "WebBanHang_QuocHuy.Web.CustomerPortal",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\WebBanHang_QuocHuy.Web.CustomerPortal.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.Common\\WebBanHang_QuocHuy.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web\\eShop.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web\\eShop.Web.csproj",
+        "projectName": "eShop.Web",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web\\eShop.Web.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\WebBanHang_QuocHuy.Web.AdminPortal.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.AdminPortal\\WebBanHang_QuocHuy.Web.AdminPortal.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\WebBanHang_QuocHuy.Web.CustomerPortal.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\WebBanHang_QuocHuy.Web.CustomerPortal.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.ShopingCart.Local\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.ShopingCart.Local\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.StateStore.DI\\WebBanHang_QuocHuy.StateStore.DI.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.StateStore.DI\\WebBanHang_QuocHuy.StateStore.DI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj",
+        "projectName": "WebBanHang_QuocHuy.DataStore.SQL.Dapper",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.DataStore.SQL.Dapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.CoreBusiness\\WebBanHang_QuocHuy.CoreBusiness.csproj"
+              },
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.ShopingCart.Local\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.ShopingCart.Local\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj",
+        "projectName": "WebBanHang_QuocHuy.ShopingCart.LocalStorage",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.ShopingCart.Local\\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.ShopingCart.Local\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.StateStore.DI\\WebBanHang_QuocHuy.StateStore.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.StateStore.DI\\WebBanHang_QuocHuy.StateStore.DI.csproj",
+        "projectName": "WebBanHang_QuocHuy.StateStore.DI",
+        "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.StateStore.DI\\WebBanHang_QuocHuy.StateStore.DI.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\eShop\\Plugins\\eShop.StateStore.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Bai Giang\\Lập trình nâng cao\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\eShop\\eShop.UseCase\\WebBanHang_QuocHuy.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.deps.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.ShopingCart.LocalStorage.styles.css
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.deps.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.ShopingCart.LocalStorage.styles.css
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.ShopingCart.LocalStorage.styles.css
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.ShopingCart.LocalStorage.styles.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.staticwebassets.runtime.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.WebBanHang_QuocHuy.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebBanHang_QuocHuy.ShopingCart.LocalStorage.props
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\WebBanHang_QuocHuy.ShopingCart.LocalStorage.styles.css
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\WebBanHang_QuocHuy.ShopingCart.LocalStorage.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.ShopingCart.LocalStorage.dll

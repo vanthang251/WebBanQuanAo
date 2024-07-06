@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "VanThang251_Sales.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VanThang251_Sales.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VanThang251_Sales.CoreBusiness.dll": {}
+        }
+      },
+      "VanThang251_Sales.UseCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VanThang251_Sales.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VanThang251_Sales.UseCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VanThang251_Sales.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VanThang251_Sales.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../../eShop.CoreBusiness/VanThang251_Sales.CoreBusiness.csproj",
+      "msbuildProject": "../../eShop.CoreBusiness/VanThang251_Sales.CoreBusiness.csproj"
+    },
+    "VanThang251_Sales.UseCase/1.0.0": {
+      "type": "project",
+      "path": "../../eShop.UseCase/VanThang251_Sales.UseCase.csproj",
+      "msbuildProject": "../../eShop.UseCase/VanThang251_Sales.UseCase.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "VanThang251_Sales.UseCase >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj",
+      "projectName": "VanThang251_Sales.StateStore.DI",
+      "projectPath": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\Plugins\\eShop.StateStore.DI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\DownLoads\\Văn Thắng_Đa Cấp\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+              "projectPath": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

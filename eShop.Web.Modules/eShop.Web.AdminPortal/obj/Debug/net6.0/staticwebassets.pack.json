@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\eShop.Web.Modules\\eShop.Web.AdminPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VanThang251_Sales.Web.AdminPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VanThang251_Sales.Web.AdminPortal.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\eShop.Web.Modules\\eShop.Web.AdminPortal\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "E:\\DownLoads\\Văn Thắng_Đa Cấp\\eShop.Web.Modules\\eShop.Web.AdminPortal\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.VanThang251_Sales.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.VanThang251_Sales.Web.AdminPortal.props",
+      "PackagePath": "build\\VanThang251_Sales.Web.AdminPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VanThang251_Sales.Web.AdminPortal.props",
+      "PackagePath": "buildMultiTargeting\\VanThang251_Sales.Web.AdminPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.VanThang251_Sales.Web.AdminPortal.props",
+      "PackagePath": "buildTransitive\\VanThang251_Sales.Web.AdminPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

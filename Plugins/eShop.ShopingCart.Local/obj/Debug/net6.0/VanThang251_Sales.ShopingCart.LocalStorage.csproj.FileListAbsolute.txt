@@ -1,0 +1,52 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.staticwebassets.runtime.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.VanThang251_Sales.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.VanThang251_Sales.ShopingCart.LocalStorage.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VanThang251_Sales.ShopingCart.LocalStorage.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VanThang251_Sales.ShopingCart.LocalStorage.props
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\VanThang251_Sales.ShopingCart.LocalStorage.styles.css
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang.432D6C56.Up2Date
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.staticwebassets.runtime.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.csproj.AssemblyReference.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.VanThang251_Sales.ShopingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.VanThang251_Sales.ShopingCart.LocalStorage.props
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VanThang251_Sales.ShopingCart.LocalStorage.props
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VanThang251_Sales.ShopingCart.LocalStorage.props
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\scopedcss\bundle\VanThang251_Sales.ShopingCart.LocalStorage.styles.css
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang.432D6C56.Up2Date
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\refint\VanThang251_Sales.ShopingCart.LocalStorage.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\VanThang251_Sales.ShopingCart.LocalStorage.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\Plugins\eShop.ShopingCart.Local\obj\Debug\net6.0\ref\VanThang251_Sales.ShopingCart.LocalStorage.dll

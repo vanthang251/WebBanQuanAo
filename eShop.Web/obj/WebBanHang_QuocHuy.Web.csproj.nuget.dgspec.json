@@ -1,0 +1,652 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web\\WebBanHang_QuocHuy.Web.csproj": {}
+  },
+  "projects": {
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj",
+        "projectName": "VanThang251_Sales.CoreBusiness",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj",
+        "projectName": "VanThang251_Sales.UseCase",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj",
+        "projectName": "VanThang251_Sales.Web.AdminPortal",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.AdminPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.31, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj",
+        "projectName": "VanThang251_Sales.Web.Common",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj",
+        "projectName": "VanThang251_Sales.Web.CustomerPortal",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.Common\\VanThang251_Sales.Web.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web\\WebBanHang_QuocHuy.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web\\WebBanHang_QuocHuy.Web.csproj",
+        "projectName": "WebBanHang_QuocHuy.Web",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web\\WebBanHang_QuocHuy.Web.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.AdminPortal\\VanThang251_Sales.Web.AdminPortal.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.Web.Modules\\eShop.Web.CustomerPortal\\VanThang251_Sales.Web.CustomerPortal.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.DataStore.SQL.Dapper\\VanThang251_Sales.DataStore.SQL.Dapper.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.DataStore.SQL.Dapper\\VanThang251_Sales.DataStore.SQL.Dapper.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\VanThang251_Sales.ShopingCart.LocalStorage.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\VanThang251_Sales.ShopingCart.LocalStorage.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.DataStore.SQL.Dapper\\VanThang251_Sales.DataStore.SQL.Dapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.DataStore.SQL.Dapper\\VanThang251_Sales.DataStore.SQL.Dapper.csproj",
+        "projectName": "VanThang251_Sales.DataStore.SQL.Dapper",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.DataStore.SQL.Dapper\\VanThang251_Sales.DataStore.SQL.Dapper.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.DataStore.SQL.Dapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.CoreBusiness\\VanThang251_Sales.CoreBusiness.csproj"
+              },
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\VanThang251_Sales.ShopingCart.LocalStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\VanThang251_Sales.ShopingCart.LocalStorage.csproj",
+        "projectName": "VanThang251_Sales.ShopingCart.LocalStorage",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\VanThang251_Sales.ShopingCart.LocalStorage.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.ShopingCart.Local\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj",
+        "projectName": "VanThang251_Sales.StateStore.DI",
+        "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.StateStore.DI\\VanThang251_Sales.StateStore.DI.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\Plugins\\eShop.StateStore.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj": {
+                "projectPath": "E:\\DownLoads\\WebBanHang\\WebBanHang_HQH\\WebBanHang_HQH\\eShop.UseCase\\VanThang251_Sales.UseCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

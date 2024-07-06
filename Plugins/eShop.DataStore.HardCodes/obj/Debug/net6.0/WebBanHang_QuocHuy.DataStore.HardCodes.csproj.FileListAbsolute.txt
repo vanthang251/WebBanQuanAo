@@ -1,0 +1,51 @@
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.deps.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.HardCodes.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.HardCodes.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.HardCodes\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.HardCodes.dll

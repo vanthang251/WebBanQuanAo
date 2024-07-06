@@ -1,0 +1,85 @@
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.deps.json
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+C:\Users\admin\Downloads\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.deps.json
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfo.cs
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CopyComplete
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+C:\Users\admin\Downloads\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\eShop\eShop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.deps.json
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.CoreBusiness.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\WebBanHang_QuocHuy.UseCase.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\WebBanHang_QuocHuy.DataStore.SQL.Dapper.pdb
+D:\Bai Giang\Lập trình web\WebBangHang\WebBanHang_HQH\WebBanHang_HQH\WebBanHang_HQH\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\WebBanHang_QuocHuy.DataStore.SQL.Dapper.dll

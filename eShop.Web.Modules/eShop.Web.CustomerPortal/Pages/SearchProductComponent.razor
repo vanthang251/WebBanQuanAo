@@ -1,0 +1,126 @@
+﻿@page "/"
+@page "/products"
+
+@inject ISearchProductUseCase searchProduct
+
+<!-- Tiêu đề trang -->
+<div class="page-title text-center my-4">
+    <h1>Trang Sản Phẩm</h1>
+</div>
+
+<!-- Thanh tìm kiếm -->
+<div class="about_section layout_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <SearchBarComponent OnSearch="HandelSearch"></SearchBarComponent>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Hiển thị sản phẩm theo dạng lưới -->
+@if (products != null && products.Count() > 0)
+{
+    <div class="product-grid py-4">
+        <div class="container">
+            <div class="row">
+                @foreach (var product in products)
+                {
+                    <div class="col-md-3 mb-4">
+                        <div class="card product-card h-100">
+                            <img class="card-img-top" src="@product.ImageLink" alt="@product.Name" style="height: 200px; object-fit: cover;">
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Name</h5>
+                                <p class="card-text">@product.Brand</p>
+                                <p class="card-text text-danger">@product.Price.ToString("C")</p>
+                            </div>
+                            <div class="card-footer text-center">
+                                <a href="/product/@product.ProductId" class="btn btn-primary">Chi tiết</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="container text-center py-4">
+        <p class="text-muted">Không tìm thấy sản phẩm.</p>
+    </div>
+}
+
+@code {
+    private IEnumerable<Product> products;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        products = searchProduct.Execute();
+    }
+
+    private void HandelSearch(string filter)
+    {
+        products = searchProduct.Execute(filter);
+    }
+}
+
+<style>
+    body {
+        background-color: PapayaWhip;
+    }
+
+    .page-title h1 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .product-grid {
+        background-color: #f9f9f9;
+        padding: 20px 0;
+    }
+
+    .product-card {
+        border: none;
+        transition: transform 0.2s ease-in-out;
+    }
+
+        .product-card:hover {
+            transform: scale(1.05);
+        }
+
+        .product-card .card-body {
+            padding: 15px;
+        }
+
+        .product-card .card-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .product-card .card-text {
+            font-size: 1rem;
+            color: #666;
+        }
+
+        .product-card .card-footer {
+            background-color: transparent;
+            border-top: none;
+        }
+
+    .btn-primary {
+        background-color: LightGray;
+        border-color: LightGray;
+        color: black;
+    }
+
+        .btn-primary:hover {
+            background-color: darkgray;
+            border-color: darkgray;
+            color: white;
+        }
+</style>

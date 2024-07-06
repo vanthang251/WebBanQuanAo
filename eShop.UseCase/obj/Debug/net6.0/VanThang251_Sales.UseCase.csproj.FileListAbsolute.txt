@@ -1,0 +1,30 @@
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.UseCase.deps.json
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.csproj.AssemblyReference.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.AssemblyInfoInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.AssemblyInfo.cs
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.csproj.CoreCompileInputs.cache
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang.AF631068.Up2Date
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\refint\VanThang251_Sales.UseCase.dll
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\WebBanHang\WebBanHang_HQH\WebBanHang_HQH\eShop.UseCase\obj\Debug\net6.0\ref\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.UseCase.deps.json
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\bin\Debug\net6.0\VanThang251_Sales.CoreBusiness.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.csproj.AssemblyReference.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.AssemblyInfoInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.AssemblyInfo.cs
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.csproj.CoreCompileInputs.cache
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang.AF631068.Up2Date
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\refint\VanThang251_Sales.UseCase.dll
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\VanThang251_Sales.UseCase.pdb
+E:\DownLoads\Văn Thắng_Đa Cấp\eShop.UseCase\obj\Debug\net6.0\ref\VanThang251_Sales.UseCase.dll
